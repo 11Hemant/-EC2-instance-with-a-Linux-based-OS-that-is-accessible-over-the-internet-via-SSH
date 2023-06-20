@@ -63,7 +63,9 @@ In the variables.tf file, we'll define the values for the input variables region
 
 
 terraform init
+
 terraform plan
+
 terraform apply
 
 ## Step 6:Terraform will initialize, show us the execution plan, and prompt for confirmation. Review the plan and type yes to proceed.
